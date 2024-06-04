@@ -1,2 +1,2 @@
-# rust-cooklbook
+# rust-cookbook
 Rust Cookbook
