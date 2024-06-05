@@ -9,14 +9,22 @@ cargo add rand
 cargo add rand_distr
 
 mkdir src/bin
-touch src/bin/ch0101.rs
+touch src/bin/ch01_01.rs
 
-cargo run --bin ch0101
+cargo run --bin ch01_01
 ```
 
 
 
 ### Vector排序
+
+```sh
+touch src/bin/ch01_02.rs
+
+cargo run --bin ch01_02
+```
+
+
 
 ## 命令行
 ## 压缩
